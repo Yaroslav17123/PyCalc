@@ -66,6 +66,6 @@ class CalculatorApp(App):
 
         bl.add_widget(gl)
         return bl
-
+ 
 if __name__ == '__main__':
     CalculatorApp().run()
